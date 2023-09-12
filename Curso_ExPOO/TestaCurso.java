@@ -27,7 +27,8 @@ public class TestaCurso {
 		loja.visualizar();
 		loja2.visualizar();
 		loja3.visualizar();
-
+		
+		ler.close();
 	}
 
 }

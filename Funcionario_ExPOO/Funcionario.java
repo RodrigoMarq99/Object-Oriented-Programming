@@ -32,4 +32,24 @@ public class Funcionario {
 	public void setCargo(String cargo) {
 		this.cargo = cargo;
 	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public String getLocalNascimento() {
+		return localNascimento;
+	}
+
+	public String getSexo() {
+		return sexo;
+	}
+
+	public int getIdade() {
+		return idade;
+	}
+
+	public String getCargo() {
+		return cargo;
+	}
 }

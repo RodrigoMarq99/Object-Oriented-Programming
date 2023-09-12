@@ -56,4 +56,5 @@ public class Ingresso {
 		System.out.println("O nome do artista é: " + nomeDoCantor);
 		System.out.println("A apresentação será no local: " + nomeDoLocal);
 	}
+	
 }

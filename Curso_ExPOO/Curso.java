@@ -47,4 +47,19 @@ public class Curso {
 	public void setSaldo(float saldo) {
 		this.saldo = saldo;
 	}
+	public String getMarca() {
+		return marca;
+	}
+	public String getLocal() {
+		return local;
+	}
+	public int getAlunos() {
+		return alunos;
+	}
+	public String getSlogan() {
+		return slogan;
+	}
+	public float getSaldo() {
+		return saldo;
+	}
 }

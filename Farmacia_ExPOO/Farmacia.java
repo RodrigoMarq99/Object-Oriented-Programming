@@ -48,4 +48,28 @@ public class Farmacia {
 	public void setSaldo(float saldo) {
 		this.saldo = saldo;
 	}
+
+	public int getClientes() {
+		return clientes;
+	}
+
+	public void setClientes(int clientes) {
+		this.clientes = clientes;
+	}
+
+	public String getMarca() {
+		return marca;
+	}
+
+	public String getLocal() {
+		return local;
+	}
+
+	public String getSlogan() {
+		return slogan;
+	}
+
+	public float getSaldo() {
+		return saldo;
+	}
 }
